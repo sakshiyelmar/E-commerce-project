@@ -1,0 +1,264 @@
+Product_name,Price,Rating,Description
+Apple MacBook Air,89900.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Pro M,186990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad Slim i,48833.0,3.9,Processor: Intel Core i5-12450H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP Victus Ryzen,56490.0,4.1,Processor: AMD Ryzen 5 5600H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB PCIe | Battery Life: Unknown
+Lenovo V15 Ryzen 3,26990.0,3.7,Processor: AMD Ryzen 3 7320U | RAM: 8GB LPDDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+ASUS TUF Gaming Ryzen,64990.0,3.9,Processor: AMD Ryzen 7 7435HS | RAM: 16GB DDR5-5600 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+Dell G15 i5,74990.0,3.9,Processor: Intel Core i5-13450HX | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+HP AMD Ryzen 3,29990.0,4.1,Processor: AMD Ryzen 3 7320U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+ASUS Vivobook Ryzen,39990.0,3.9,Processor: AMD Ryzen 5 7520U | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+Dell Inspiron i,55900.0,3.5,Processor: 13th Gen Intel Core i5-1334U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+ASUS TUF Gaming Ryzen,56990.0,3.9,Processor: AMD Ryzen 7 7435HS | RAM: 16GB DDR5-5600 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+HP 15s i3,33490.0,4.1,Processor: Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Up to 7 hours
+Acer Aspire Lite Ryzen,29490.0,3.9,Processor: AMD Ryzen 3 5300U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP 13th i3,35990.0,3.9,Processor: 13th Gen Intel Core i3-1315U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: up to 7 hours
+Dell Thin i3,31990.0,3.8,Processor: Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim i,32990.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4-3200 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+HP 15s i3,32990.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4-3200 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,134490.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Dell Inspiron i,36990.0,4.0,Processor: Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Dell Inspiron i,52990.0,3.5,Processor: Intel Core i5-1334U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim i,32990.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4-3200 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Lenovo V15 i7,45990.0,3.4,Processor: 12th Gen Intel Core I7-1255U | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim i,63390.0,4.0,Processor: Intel Core i7-13620H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer Aspire Lite Ryzen,26990.0,3.9,Processor: AMD Ryzen 3 5300U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Acer Aspire Celeron,22990.0,3.4,Processor: Celeron N4500 | RAM: 8GB LPDDR4X | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Primebook Thin,13990.0,4.5,Processor: Mediatek MT8788 | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo LOQ Ryzen 5,64990.0,4.0,Processor: AMD Ryzen 5 7235HS | RAM: 32GB DDR5-4800 | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo V14 i5,40989.0,5.0,Processor: Intel Core i5-1235U | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+ASUS Vivobook i,32990.0,4.0,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+HP OMEN Ryzen,129990.0,3.0,Processor: AMD Ryzen 9 7940HS | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP 15s i3,30990.0,4.1,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 256GB PCIe | Battery Life: up to 7 hours
+HP 255 G10 Ryzen 5,29100.0,2.0,Processor: AMD Ryzen 5 7520U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP 14 AI Core Ultra 7 35.6cm,79990.0,3.1,Processor: Unknown | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: up to 8 hours
+Apple MacBook Air,159990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Dell Inspiron i,36990.0,4.0,Processor: Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Acer V15 Ryzen 7 62cm,77990.0,4.1,Processor: AMD Ryzen 7 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer Aspire Celeron,22990.0,3.4,Processor: Celeron N4500 | RAM: 8GB LPDDR4X | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Primebook Thin,13990.0,4.5,Processor: Mediatek MT8788 | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo V14 i3,31870.0,4.8,No description available
+Acer Aspire Lite Ryzen,29490.0,3.9,Processor: AMD Ryzen 3 5300U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,299990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,115990.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+HP 250R G9 i3,31240.0,4.0,Processor: Intel Core i3-1315U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad Slim i,32990.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4-3200 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer Aspire i,41390.0,4.2,Processor: Intel Core i3-N305 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Walker Thin Celeron,12490.0,3.4,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+ASUS ROG Strix i,279990.0,3.8,Processor: Intel Core i9 | RAM: 32GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo V15 Ryzen 7,40990.0,4.0,Processor: AMD Ryzen 7 7730U | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP 15s i3,30990.0,4.1,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 256GB PCIe | Battery Life: up to 7 hours
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Apple MacBook Air,136990.0,4.1,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Lenovo IdeaPad Slim i,32990.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4-3200 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer Aspire Lite Ryzen,29490.0,3.9,Processor: AMD Ryzen 3 5300U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP 15s i3,30990.0,4.1,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 256GB PCIe | Battery Life: up to 7 hours
+HP 250R G9 i3,31240.0,4.0,Processor: Intel Core i3-1315U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo V15 Ryzen 3,26740.0,3.6,Processor: AMD Ryzen 3 7320U | RAM: 8GB LPDDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo LOQ i7 39.6cm,99990.0,3.7,Processor: Intel Core i7-13650HX | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Acer Aspire i,41390.0,4.2,Processor: Intel Core i3-N305 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,136990.0,0.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+JioBook Thin,12990.0,3.0,Processor: Unknown | RAM: 4GB LPDDR4 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Dell Latitude,27716.0,2.8,Processor: Intel Core i3 | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: up to 6 hours
+ASUS Vivobook i,32990.0,4.0,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+HP 240R G9 i3,34950.0,3.7,Processor: Intel Core i3-1315U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+HP Gaming,102990.0,3.8,Processor: AMD Ryzen 7 7840HS | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer Aspire Lite i,30990.0,3.9,Processor: Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad Slim i,63390.0,4.0,Processor: Intel Core i7-13620H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+HP 13th i5,55990.0,2.7,Processor: 13th Gen Intel Core i5-1334U | RAM: 16GB DDR4-3200 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Apple MacBook Air,139990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+HP 240R G9 i3,34950.0,3.7,Processor: Intel Core i3-1315U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad Slim i,63390.0,4.0,Processor: Intel Core i7-13620H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad i,33900.0,4.1,Processor: 12th Gen Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo LOQ Ryzen 7 39.6cm,80990.0,4.4,Processor: AMD Ryzen 7 7435HS | RAM: 32GB DDR5-4800 | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Dell Latitude,27716.0,2.8,Processor: Intel Core i3 | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: up to 6 hours
+Lenovo Yoga Core Ultra,75900.0,3.7,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim Celeron,23790.0,3.7,Processor: Unknown | RAM: 8GB DDR4-2400 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim i,36990.0,4.1,Processor: 13th Gen Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+ASUS ProArt,159990.0,5.0,Processor: Unknown | RAM: 24GB LPDDR5X | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP OmniBook 40.6cm,87990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: up to 14 hours
+Lenovo V15 Ryzen 7,42990.0,4.0,Processor: AMD Ryzen 7 7730U | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP 14 AI Core Ultra 7 35.6cm,79990.0,3.1,Processor: Unknown | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: up to 8 hours
+Lenovo LOQ i7 39.6cm,99990.0,3.7,Processor: Intel Core i7-13650HX | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+ASUS Vivobook i,35990.0,4.0,Processor: 12th Gen Intel Core i3-1215U | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+Lenovo V15 Celeron,21990.0,3.9,Processor: Celeron N4500 | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 256GB NVMe | Battery Life: Unknown
+Acer Aspire Lite Ryzen,26990.0,3.9,Processor: AMD Ryzen 3 5300U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Primebook Thin,14990.0,4.5,Processor: Mediatek MT8788 | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+ASUS Gaming V16 M3,89990.0,3.0,Processor: Unknown | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+Apple MacBook Pro M,186990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,89900.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,159990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Acer Aspire Celeron,21980.0,3.4,Processor: Celeron N4500 | RAM: 8GB LPDDR4X | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Apple MacBook Pro M,299990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo LOQ,74490.0,4.0,Processor: Intel Core i5-13450HX | RAM: 32GB DDR5-4800 | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim Ryzen,39990.0,2.0,Processor: AMD Ryzen 5 5625U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad i,33700.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Samsung Thin i7 56cm,99350.0,4.0,Processor: Intel Core i7-1360P | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+HP 15s i3,32990.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4-3200 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,239990.0,4.5,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,279990.0,3.3,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+HP 240R G9 i3,34250.0,4.6,Processor: Intel Core i3-1315U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer ALG i5 62cm,61990.0,4.0,Processor: Intel Core i5-13420H | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: 512GB NVME | Battery Life: Unknown
+ASUS ROG Strix i,149490.0,4.0,Processor: 13th Gen Intel Core i7-13650HX | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP Thin Ryzen 5 15.6-inch,36944.0,4.1,Processor: AMD Ryzen 5 5500U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+Lenovo LOQ Ryzen 7 39.6cm,80990.0,4.4,Processor: AMD Ryzen 7 7435HS | RAM: 32GB DDR5-4800 | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Acer Aspire Celeron,20980.0,3.4,Processor: Celeron N4500 | RAM: 8GB LPDDR4X | Memory: Unknown | Operating System: Unknown | Storage: 256GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim Ryzen,37900.0,4.0,Processor: AMD Ryzen 5 5500U | RAM: 16GB DDR4-3200 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+MSI Modern,41990.0,3.6,Processor: Intel Core i7 | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Apple MacBook Pro M,224990.0,3.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo V15 Ryzen 3,27460.0,3.7,Processor: AMD Ryzen 3 7320U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP Victus Ryzen,55490.0,4.0,Processor: AMD Ryzen 5 5600H | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+MSI Modern i5,40990.0,3.4,Processor: Intel Core i5-1335U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Lenovo IdeaPad Slim Celeron,25990.0,3.5,Processor: Unknown | RAM: 8GB DDR4-2400 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+MSI Thin i5,51750.0,4.0,Processor: Intel Core i5 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Primebook Thin,14990.0,4.5,Processor: Mediatek MT8788 | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+ASUS Vivobook Ryzen,40990.0,3.4,Processor: AMD Ryzen 5 7520U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+Apple MacBook Air,98990.0,4.7,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Apple MacBook Pro M,186990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,159990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Lenovo IdeaPad Ryzen,32990.0,3.6,Processor: AMD Ryzen 5 7520U | RAM: 8GB LPDDR5-5500 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo IdeaPad Slim Ryzen,39990.0,2.0,Processor: AMD Ryzen 5 5625U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad i,33700.0,3.9,Processor: 12th Gen Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Cable World Educational,699.0,3.9,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,96990.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Cable World Educational,643.0,3.9,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,158990.0,4.6,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Microsoft Surface Laptop Snapdragon X,106757.0,3.9,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,91900.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Logitech C270,1995.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 10 | Storage: Unknown | Battery Life: Unknown
+HP Pavilion,999.0,4.3,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,139990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Vantro 200W,2289.0,4.4,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,182990.0,3.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,89900.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,106990.0,4.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Gooyo 2011A,349.0,3.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Cosmic Byte,549.0,3.9,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Kreo Tundra,1749.0,4.1,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,120990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,109990.0,4.6,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+EvoFox Frost,689.0,4.1,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Honeywell Newly,399.0,4.3,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Linux | Storage: Unknown | Battery Life: Unknown
+Dell G15 i5,74990.0,3.9,Processor: Intel Core i5-13450HX | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+HP Victus i,69990.0,3.5,Processor: 12th Gen Intel Core i7-12650H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB PCIe | Battery Life: up to 7 hours
+Apple MacBook Air,89900.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,120990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+ASUS TUF Gaming i,94990.0,4.4,Processor: 13th Gen Intel Core i7-13620H | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+Lenovo IdeaPad i,55490.0,3.9,Processor: 12th Gen Intel Core i5-1235U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Acer V15 Ryzen 5,54490.0,5.0,Processor: AMD Ryzen 5 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+ASUS Vivobook i,68990.0,3.5,Processor: Intel Core i5-13420H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB M.2 | Battery Life: Unknown
+ASUS Vivobook i,74990.0,4.1,Processor: Intel Core i9-13900H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB M.2 | Battery Life: Up to 6 hours
+Apple MacBook Pro M,186990.0,3.4,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+MSI Raider i9,285400.0,3.9,Processor: Intel Core i9-14900HX | RAM: 32GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+Lenovo V14 Ryzen 3,27490.0,3.5,Processor: AMD Ryzen 3 7320U | RAM: 8GB LPDDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo LOQ Ryzen 5 39.6cm,57990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP Pavilion i,66882.0,3.8,Processor: Intel Core i5-1335U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+ASUS Vivobook i,74990.0,4.1,Processor: Intel Core i9-13900H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP 255 G9 Athlon,25750.0,3.5,Processor: Athlon Silver | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+HP Victus i,66990.0,3.5,Processor: 13th Gen Intel Core i5-13420H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo Thin i3,33990.0,0.0,Processor: Intel Core i3 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: up to 6 hours
+Apple MacBook Air,159990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,134990.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Lenovo IdeaPad Athlon,25990.0,3.9,Processor: Athlon Silver | RAM: 8GB LPDDR5-5500 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP Gaming,78990.0,3.9,Processor: 13th Gen Intel Core i5-13420H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+HP Victus i,69990.0,3.5,Processor: 12th Gen Intel Core i7-12650H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB PCIe | Battery Life: up to 7 hours
+DELL Latitude i,31000.0,3.4,Processor: Intel Core i3 | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: up to 6 hours
+Lenovo Yoga i,93999.0,4.6,Processor: Intel Core i5-13500H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+HP OMEN i,109990.0,3.0,Processor: 14th Gen Intel Core i7-14650HX | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Acer ALG i7 62cm,68990.0,3.7,Processor: Intel Core i7-13620H | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,182990.0,3.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo ThinkBook Ryzen 7,52990.0,4.1,Processor: AMD Ryzen 7 7730U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+ASUS TUF i,96990.0,4.0,Processor: 13th Gen Intel Core i7-13620H | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: Unknown
+DELL Thin i3,34490.0,0.0,Processor: Intel Core i3 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: up to 6 hours
+Lenovo V14 i3,31490.0,3.9,No description available
+Dell Inspiron i,67990.0,3.6,Processor: Intel Core i7-1355U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Acer Aspire Lite i,33990.0,3.9,Processor: Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP Gaming,78990.0,3.9,Processor: 13th Gen Intel Core i5-13420H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Unknown
+MSI Thin i5,61990.0,4.1,Processor: Intel Core i5-13420H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Apple MacBook Pro M,299990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad i,67990.0,4.0,Processor: Intel Core i5 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Acer Aspire Lite i,33990.0,3.9,Processor: Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad Ryzen,28490.0,3.9,Processor: Unknown | RAM: 8GB LPDDR5-5500 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Sounce Cleaning,149.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo V15 i3,28150.0,3.7,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+ASUS Vivobook i,69990.0,2.8,Processor: Intel Core i7-12700H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB M.2 | Battery Life: Unknown
+Apple MacBook Pro M,158990.0,4.6,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+ASUS Vivobook Ryzen,32890.0,4.0,Processor: AMD Ryzen 3 7320U | RAM: 8GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB M.2 | Battery Life: Up to 6 hours
+HP Victus,67990.0,3.7,Processor: AMD Ryzen 7 7840HS | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB PCIe | Battery Life: up to 7 hours
+Microsoft Surface Laptop Snapdragon X,145990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo Gx20K78585,1099.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,106990.0,4.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Apple MacBook Air,144990.0,4.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Apple MacBook Air,134990.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+ASUS ProArt,159990.0,5.0,Processor: Unknown | RAM: 24GB LPDDR5X | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Portronics Mport,189.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,159990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,98990.0,4.7,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Laplife Aspire,539.0,3.5,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Dell Inspiron i,52990.0,3.5,Processor: Intel Core i5-1334U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+HP 15s i3,33490.0,4.1,Processor: Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: Up to 7 hours
+Apple MacBook Pro M,201990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Portronics Buddy,1697.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Wembley Educational,699.0,3.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Vantro 200W,2289.0,4.4,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+OneAssist Years,2299.0,3.4,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,182990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,109990.0,4.6,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Acko Year,1749.0,3.5,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Kreo Tundra,1749.0,4.1,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Acko Year,2399.0,3.7,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Tukzer Professional,309.0,4.3,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+ZEBRONICS Igloo,399.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,115990.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,96990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Pro M,201990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Cosmic Byte,1399.0,3.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+FACTOTECH USB,474.0,4.1,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+MSI Thin i5,61990.0,4.1,Processor: Intel Core i5-13420H | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Apple MacBook Air,115990.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Apple MacBook Air,139990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Artis AR0504,649.0,3.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Tukzer Professional,279.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Tukzer 2-in-1,499.0,4.3,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+MSI Thin i5,52990.0,3.3,Processor: Intel Core i5-13420H | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+ASUS Vivobook i,74990.0,4.1,Processor: Intel Core i9-13900H | RAM: 16GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB M.2 | Battery Life: Up to 6 hours
+Lenovo V15 Athlon,24980.0,4.0,Processor: Athlon Silver | RAM: 8GB LPDDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Klenzmo Screen,359.0,4.3,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP 13th i3,35990.0,3.9,Processor: 13th Gen Intel Core i3-1315U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: up to 7 hours
+MSI Modern,41990.0,3.6,Processor: Intel Core i7 | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Apple MacBook Air,139990.0,5.0,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+Dell Inspiron i,34999.0,3.9,Processor: Intel Core i3-1305U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo Thin i3,33990.0,0.0,Processor: Intel Core i3 | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: Unknown | Battery Life: up to 6 hours
+Apple MacBook Air,91900.0,4.5,Processor: Apple M4 | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: up to 18 hours
+ASUS Vivobook i,88730.0,5.0,Processor: Unknown | RAM: 16GB LPDDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB M.2 | Battery Life: Unknown
+ASUS Vivobook Ryzen,32890.0,4.0,Processor: AMD Ryzen 3 7320U | RAM: 8GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: 512GB M.2 | Battery Life: Up to 6 hours
+StarAndDaisy Baby,1234.0,3.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,299990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo IdeaPad Ryzen,28490.0,3.9,Processor: Unknown | RAM: 8GB LPDDR5-5500 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+Lenovo LOQ i5,65900.0,3.6,Processor: Intel Core i5-12450HX | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Microsoft Surface Laptop Snapdragon X,109990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+MSI Thin i5,52990.0,3.3,Processor: Intel Core i5-13420H | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB NVMe | Battery Life: Unknown
+Apple MacBook Pro M,299990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Lenovo Yoga,127990.0,5.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+Portronics Mport,899.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo LOQ i5 39.6cm,70990.0,4.0,Processor: Intel Core i5-13450HX | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+Logitech C270,1995.0,4.2,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Windows 10 | Storage: Unknown | Battery Life: Unknown
+HP 255 G10 Ryzen 5,28990.0,2.2,Processor: AMD Ryzen 5 7520U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Dell Inspiron i,67990.0,3.6,Processor: Intel Core i7-1355U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
+URBN 27000,2849.0,3.8,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Lenovo V15 i3,28150.0,3.7,Processor: 12th Gen Intel Core i3-1215U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB SSD | Battery Life: Unknown
+ASUS ROG Strix i,149490.0,4.0,Processor: 13th Gen Intel Core i7-13650HX | RAM: 16GB DDR5 | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+HP 255 G9 Ryzen 3,23490.0,1.9,Processor: AMD Ryzen 3 3250U | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Acer ALG i5 62cm,57990.0,3.9,Processor: Intel Core i5-12450H | RAM: Unknown | Memory: Unknown | Operating System: Unknown | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Pro M,239990.0,4.5,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Apple MacBook Air,136990.0,4.1,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: UP TO 18 HOURS
+Apple MacBook Pro M,299990.0,4.0,Processor: Unknown | RAM: Unknown | Memory: Unknown | Operating System: Macos | Storage: Unknown | Battery Life: Unknown
+Dell Inspiron i,55900.0,3.5,Processor: 13th Gen Intel Core i5-1334U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 1TB SSD | Battery Life: Unknown
+HP 13th i3,35990.0,3.9,Processor: 13th Gen Intel Core i3-1315U | RAM: 8GB DDR4 | Memory: Unknown | Operating System: Unknown | Storage: 512GB PCIe | Battery Life: up to 7 hours
+Dell Thin i3,31990.0,3.8,Processor: Intel Core i3-1215U | RAM: Unknown | Memory: Unknown | Operating System: Windows 11 | Storage: 512GB SSD | Battery Life: Unknown
